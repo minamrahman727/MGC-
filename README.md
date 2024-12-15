@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-github-username>/mgckarachi.git
+   git clone https://github.com/minamrahman727/mgckarachi.git
    cd mgckarachi
    ```
 
